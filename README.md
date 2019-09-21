@@ -1,6 +1,6 @@
-# cocos-bcx price chart 
+# eidoo price chart 
 
-cocos-bcx price chart (matplotlib, python)
+eidoo price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
