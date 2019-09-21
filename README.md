@@ -1,6 +1,6 @@
-# eidoo price chart 
+# bread price chart 
 
-eidoo price chart (matplotlib, python)
+bread price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
