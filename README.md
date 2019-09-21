@@ -1,6 +1,6 @@
-# bread price chart 
+# arcblock price chart 
 
-bread price chart (matplotlib, python)
+arcblock price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
