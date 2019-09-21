@@ -1,6 +1,6 @@
-# rlc price chart 
+# litecoin-cash price chart 
 
-rlc price chart (matplotlib, python)
+litecoin-cash price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
