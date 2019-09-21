@@ -1,6 +1,6 @@
-# litecoin-cash price chart 
+# celer-network price chart 
 
-litecoin-cash price chart (matplotlib, python)
+celer-network price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
