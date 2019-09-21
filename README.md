@@ -1,6 +1,6 @@
-# arcblock price chart 
+# rlc price chart 
 
-arcblock price chart (matplotlib, python)
+rlc price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
