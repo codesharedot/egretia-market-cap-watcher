@@ -1,6 +1,6 @@
-# cybermiles price chart 
+# realtract price chart 
 
-cybermiles price chart (matplotlib, python)
+realtract price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
