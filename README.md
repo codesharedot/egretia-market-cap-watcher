@@ -1,6 +1,6 @@
-# robotina price chart 
+# perlin price chart 
 
-robotina price chart (matplotlib, python)
+perlin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
