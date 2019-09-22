@@ -1,6 +1,6 @@
-# syscoin price chart 
+# egretia price chart 
 
-syscoin price chart (matplotlib, python)
+egretia price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
