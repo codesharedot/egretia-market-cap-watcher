@@ -1,6 +1,6 @@
-# civic price chart 
+# vertcoin price chart 
 
-civic price chart (matplotlib, python)
+vertcoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
