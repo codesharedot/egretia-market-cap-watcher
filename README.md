@@ -1,6 +1,6 @@
-# davinci-coin price chart 
+# civic price chart 
 
-davinci-coin price chart (matplotlib, python)
+civic price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
