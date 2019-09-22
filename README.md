@@ -1,6 +1,6 @@
-# tenx price chart 
+# divi price chart 
 
-tenx price chart (matplotlib, python)
+divi price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
