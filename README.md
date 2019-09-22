@@ -1,6 +1,6 @@
-# ugas price chart 
+# davinci-coin price chart 
 
-ugas price chart (matplotlib, python)
+davinci-coin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
