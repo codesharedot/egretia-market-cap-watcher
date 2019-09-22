@@ -1,6 +1,6 @@
-# perlin price chart 
+# ugas price chart 
 
-perlin price chart (matplotlib, python)
+ugas price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
