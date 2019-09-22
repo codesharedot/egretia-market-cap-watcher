@@ -1,6 +1,6 @@
-# celer-network price chart 
+# cybermiles price chart 
 
-celer-network price chart (matplotlib, python)
+cybermiles price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
