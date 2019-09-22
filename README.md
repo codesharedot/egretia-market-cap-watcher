@@ -1,6 +1,6 @@
-# groestlcoin price chart 
+# pivx price chart 
 
-groestlcoin price chart (matplotlib, python)
+pivx price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
