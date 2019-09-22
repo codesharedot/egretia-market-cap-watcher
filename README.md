@@ -1,6 +1,6 @@
-# polymath-network price chart 
+# syscoin price chart 
 
-polymath-network price chart (matplotlib, python)
+syscoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
