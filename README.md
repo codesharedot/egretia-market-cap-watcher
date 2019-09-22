@@ -1,6 +1,6 @@
-# vertcoin price chart 
+# polymath-network price chart 
 
-vertcoin price chart (matplotlib, python)
+polymath-network price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
