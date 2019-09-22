@@ -1,6 +1,6 @@
-# egretia price chart 
+# iot-chain price chart 
 
-egretia price chart (matplotlib, python)
+iot-chain price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
