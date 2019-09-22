@@ -1,6 +1,6 @@
-# pivx price chart 
+# content-value-network price chart 
 
-pivx price chart (matplotlib, python)
+content-value-network price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
