@@ -1,6 +1,6 @@
-# divi price chart 
+# quarkchain price chart 
 
-divi price chart (matplotlib, python)
+quarkchain price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
