@@ -1,6 +1,6 @@
-# quarkchain price chart 
+# groestlcoin price chart 
 
-quarkchain price chart (matplotlib, python)
+groestlcoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
