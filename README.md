@@ -1,6 +1,6 @@
-# ttc price chart 
+# metal price chart 
 
-ttc price chart (matplotlib, python)
+metal price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
