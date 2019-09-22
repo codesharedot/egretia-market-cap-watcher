@@ -1,6 +1,6 @@
-# realtract price chart 
+# tenx price chart 
 
-realtract price chart (matplotlib, python)
+tenx price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
