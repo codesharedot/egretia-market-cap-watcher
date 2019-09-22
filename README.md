@@ -1,6 +1,6 @@
-# metal price chart 
+# robotina price chart 
 
-metal price chart (matplotlib, python)
+robotina price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
