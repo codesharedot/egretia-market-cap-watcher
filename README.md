@@ -1,6 +1,6 @@
-# content-value-network price chart 
+# ttc price chart 
 
-content-value-network price chart (matplotlib, python)
+ttc price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
