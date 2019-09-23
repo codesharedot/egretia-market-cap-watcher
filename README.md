@@ -1,6 +1,6 @@
-# contentos price chart 
+# nexus price chart 
 
-contentos price chart (matplotlib, python)
+nexus price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
