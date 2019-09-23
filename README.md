@@ -1,6 +1,6 @@
-# iot-chain price chart 
+# contentos price chart 
 
-iot-chain price chart (matplotlib, python)
+contentos price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
