@@ -1,6 +1,6 @@
-# nexus price chart 
+# diamond-platform-token price chart 
 
-nexus price chart (matplotlib, python)
+diamond-platform-token price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
