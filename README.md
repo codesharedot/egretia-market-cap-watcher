@@ -1,6 +1,6 @@
-# medibloc market cap watcher 
+# ddkoin market cap watcher 
 
-medibloc market cap ticker
+ddkoin market cap ticker
 
 https://pythonprogramminglanguage.com
 
