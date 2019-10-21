@@ -1,6 +1,6 @@
-# particl market cap watcher 
+# noah-coin market cap watcher 
 
-particl market cap ticker
+noah-coin market cap ticker
 
 https://pythonprogramminglanguage.com
 
