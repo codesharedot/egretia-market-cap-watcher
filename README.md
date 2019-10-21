@@ -1,6 +1,6 @@
-# repo market cap watcher 
+# time-new-bank market cap watcher 
 
-repo market cap ticker
+time-new-bank market cap ticker
 
 https://pythonprogramminglanguage.com
 
