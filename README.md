@@ -1,6 +1,6 @@
-# ddkoin market cap watcher 
+# gifto market cap watcher 
 
-ddkoin market cap ticker
+gifto market cap ticker
 
 https://pythonprogramminglanguage.com
 
