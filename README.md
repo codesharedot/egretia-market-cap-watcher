@@ -1,6 +1,6 @@
-# ilcoin market cap watcher 
+# particl market cap watcher 
 
-ilcoin market cap ticker
+particl market cap ticker
 
 https://pythonprogramminglanguage.com
 
