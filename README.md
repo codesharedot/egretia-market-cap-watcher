@@ -1,6 +1,6 @@
-# skycoin market cap watcher 
+# commerceblock market cap watcher 
 
-skycoin market cap ticker
+commerceblock market cap ticker
 
 https://pythonprogramminglanguage.com
 
