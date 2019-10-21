@@ -1,6 +1,6 @@
-# noah-coin market cap watcher 
+# uni-coin market cap watcher 
 
-noah-coin market cap ticker
+uni-coin market cap ticker
 
 https://pythonprogramminglanguage.com
 
