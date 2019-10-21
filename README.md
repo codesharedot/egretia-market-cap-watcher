@@ -1,6 +1,6 @@
-# firstblood market cap watcher 
+# everipedia market cap watcher 
 
-firstblood market cap ticker
+everipedia market cap ticker
 
 https://pythonprogramminglanguage.com
 
