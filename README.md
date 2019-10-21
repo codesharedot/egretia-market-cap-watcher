@@ -1,6 +1,6 @@
-# poet market cap watcher 
+# medibloc market cap watcher 
 
-poet market cap ticker
+medibloc market cap ticker
 
 https://pythonprogramminglanguage.com
 
