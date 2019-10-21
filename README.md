@@ -1,6 +1,6 @@
-# hycon market cap watcher 
+# firstblood market cap watcher 
 
-hycon market cap ticker
+firstblood market cap ticker
 
 https://pythonprogramminglanguage.com
 
