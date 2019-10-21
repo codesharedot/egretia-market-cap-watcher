@@ -1,6 +1,6 @@
-# dragonchain market cap watcher 
+# skycoin market cap watcher 
 
-dragonchain market cap ticker
+skycoin market cap ticker
 
 https://pythonprogramminglanguage.com
 
