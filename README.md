@@ -1,6 +1,6 @@
-# constellation market cap watcher 
+# reserve-rights market cap watcher 
 
-constellation market cap ticker
+reserve-rights market cap ticker
 
 https://pythonprogramminglanguage.com
 
