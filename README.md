@@ -1,6 +1,6 @@
-# diamond-platform-token price chart 
+# ilcoin market cap watcher 
 
-diamond-platform-token price chart (matplotlib, python)
+ilcoin market cap ticker
 
 https://pythonprogramminglanguage.com
 
