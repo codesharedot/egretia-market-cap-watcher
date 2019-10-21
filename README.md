@@ -1,6 +1,6 @@
-# uni-coin market cap watcher 
+# hycon market cap watcher 
 
-uni-coin market cap ticker
+hycon market cap ticker
 
 https://pythonprogramminglanguage.com
 
