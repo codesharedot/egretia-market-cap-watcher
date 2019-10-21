@@ -1,6 +1,6 @@
-# ruff market cap watcher 
+# constellation market cap watcher 
 
-ruff market cap ticker
+constellation market cap ticker
 
 https://pythonprogramminglanguage.com
 
