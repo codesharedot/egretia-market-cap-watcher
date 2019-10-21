@@ -1,6 +1,6 @@
-# reserve-rights market cap watcher 
+# repo market cap watcher 
 
-reserve-rights market cap ticker
+repo market cap ticker
 
 https://pythonprogramminglanguage.com
 
