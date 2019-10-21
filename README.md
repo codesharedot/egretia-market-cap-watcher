@@ -1,6 +1,6 @@
-# everipedia market cap watcher 
+# ruff market cap watcher 
 
-everipedia market cap ticker
+ruff market cap ticker
 
 https://pythonprogramminglanguage.com
 
