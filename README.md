@@ -1,6 +1,6 @@
-# gifto market cap watcher 
+# dragonchain market cap watcher 
 
-gifto market cap ticker
+dragonchain market cap ticker
 
 https://pythonprogramminglanguage.com
 
