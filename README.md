@@ -1,6 +1,6 @@
-# time-new-bank market cap watcher 
+# poet market cap watcher 
 
-time-new-bank market cap ticker
+poet market cap ticker
 
 https://pythonprogramminglanguage.com
 
