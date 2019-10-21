@@ -1,6 +1,6 @@
-# commerceblock market cap watcher 
+# egretia market cap watcher 
 
-commerceblock market cap ticker
+egretia market cap ticker
 
 https://pythonprogramminglanguage.com
 
